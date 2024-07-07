@@ -1,1 +1,1 @@
-![result.png](https://raw.githubusercontent.com/JeRamen/fileToMarkdown/main/docs/result.png)
+![result.png](https://github.com/JeRamen/fileToMarkdown/blob/main/docs/result.png?raw=true)
